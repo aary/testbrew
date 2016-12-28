@@ -1,0 +1,7 @@
+cxx_library(
+    name = "testbrew",
+    srcs = [
+        "test.cpp",
+        "test-submodule/something.cpp",
+    ],
+)

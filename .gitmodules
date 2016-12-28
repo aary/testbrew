@@ -1,0 +1,3 @@
+[submodule "test-submodule"]
+	path = testbrew/test-submodule
+	url = https://github.com/aary/test-submodule
